@@ -1,5 +1,5 @@
 {
-  "name": "my/oanda-library",
+  "name": "siven76/oanda-library",
   "description": "A PHP wrapper for the OANDA v20 REST API",
   "type": "library",
   "minimum-stability": "stable",
